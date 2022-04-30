@@ -2782,6 +2782,10 @@ input, select, textarea {
 
 	@media screen and (max-width: 840px) {
 
+		/*Blackays's button*/
+		.scrolldown {
+			visibility: hidden;
+			}
 		/* Basic */
 
 			body, input, textarea, select {
@@ -2825,6 +2829,10 @@ input, select, textarea {
 
 	@media screen and (max-width: 736px) {
 
+		/*Blackays's button*/
+		.scrolldown {
+		visibility: hidden;
+		}
 		/* Basic */
 
 			html, body {
