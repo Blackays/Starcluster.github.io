@@ -2693,6 +2693,7 @@ input, select, textarea {
 			.carousel article .image {
 				width: 18.4em;
 				height: 10.35em;
+				object-fit: cover;
 				position: relative;
 				left: -1em;
 				top: 0;
@@ -2731,7 +2732,7 @@ input, select, textarea {
 				}
 
 				.carousel article {
-					width: 18em;
+					width: 18.4em;
 					margin: 0 1.25em 0 0;
 				}
 
@@ -2821,7 +2822,7 @@ input, select, textarea {
 			}
 
 				.carousel article {
-					width: 18em;
+					width: 18.4em;
 					margin: 0 1em 0 0;
 				}
 
@@ -3224,7 +3225,7 @@ input, select, textarea {
 				}
 
 				.carousel article {
-					width: 14em;
+					width: 18.4em;
 					padding-bottom: 2em;
 					margin: 0 0.5em 0 0;
 				}
